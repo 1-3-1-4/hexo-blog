@@ -1,7 +1,7 @@
 ---
 title: Python--前言
 date: 2021-04-24 16:30:52
-tags: Python
+tags: [Python, Python学习]
 categories: Python
 description: 了解Python
 ---
