@@ -37,11 +37,13 @@ g
 7source/_posts/python/04-数据类型-字符串详细.md,c/e/ce6cd20493935c673ed35968d482deb86a8a8498
 d
 4source/_posts/python/03-数据类型-字典详细.md,a/1/a1b5d6003e091124ed2ed165116f9530386bdbf8
-N
-source/_posts/python/python.md,a/2/a2e7dd0fd1f3bb1ba027d76999d9f73be36662c8
 ]
 -source/_posts/python/01-数据类型总览.md,8/d/8d754ab1f0e346fa96228e5b6bb20797f5f34db8
 ;
 _config.yml,c/d/cd089ae45ce870c45e434019e8f1ed4f066cd425
 9
 	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+T
+$source/_posts/python/06-运算符.md,a/3/a3d34dee04542c977b507ac87fae279c7080e5e8
+c
+3source/_posts/python/05-变量和格式化输出.md,d/2/d25375a1d055c8f5ede70820e4c5f8b946d8e319
